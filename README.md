@@ -1,5 +1,5 @@
 # Projet_Personnel_Dashboard_Bieres_artisanales
-Création d'un Dashboard pour détecter la les zones avec plus de brasseries par villes et la production de Bières (style)
+Création d'un Dashboard pour détecter les zones avec plus de brasseries par villes et la production de Bières (style)
 
 ## Livrables:
 * Les données à analyser;
