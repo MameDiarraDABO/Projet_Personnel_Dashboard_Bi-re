@@ -3,6 +3,7 @@ Création d'un Dashboard pour détecter la les zones avec plus de brasseries par
 
 ## Livrables:
 * Les données à analyser;
+* Fichier au format power BI (pbix)
 * Le rapport au format PDF avec les différentes pages d'analyse.
 
 ## Compétences:
